@@ -78,13 +78,14 @@ class DesignVsAsBuilt_Calc:
             self.i_las,
             out_las_raster,
             value_field="ELEVATION",
-            # interpolation_type="BINNING IDW LINEAR",
-            interpolation_type=interpolation_type,
+            interpolation_type="BINNING IDW LINEAR",
+            # interpolation_type=interpolation_type,
             data_type="FLOAT",
             sampling_type="CELLSIZE",
             sampling_value=1,
             z_factor=1)
         self._las_ras = out_las_raster
+        debug("las2ras", interpolation_type)
    
     def _extract_by_mask(self, area_type):
         if(area_type == "ground") or (area_type == "crown"):
