@@ -237,7 +237,7 @@ class DesignVsAsBuilt_Calc:
         #     [10,255 ,255 ,0]]
         # recolored = arcpy.ia.Colormap(reclassified, colormap=customized_colormap)
         # recolored.save(path)
-        return recolored
+        # return recolored
         
     def determine_stats(self, stats):
         cons_type1 = self._settings["cons_type1"]
