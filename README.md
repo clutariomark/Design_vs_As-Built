@@ -54,6 +54,7 @@ https://www.pref.yamagata.jp/documents/18357/24_re-za-dekigata.pdf
 | 5 | area | The area of the construction. |
 | 6 | cellFill | How you thin LAZ format  |
 
+
 #### Construction type
 | type | method | area |
 |--|--|--|
@@ -63,11 +64,15 @@ https://www.pref.yamagata.jp/documents/18357/24_re-za-dekigata.pdf
 |  | fill | crown, slope |
 | pavement | not ready | - |
 
+
 ### Rasterizing method
-- LAS to Raster
+
+**LAS to Raster**
+
 It thins the LAS dataset first, then create TIN for calculaion, finally rasterize.
 
-- LandXML to Raster
+**LandXML to Raster**
+
 It create esri TIN surface and then rasterize.
 
 
