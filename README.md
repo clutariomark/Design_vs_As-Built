@@ -1,13 +1,7 @@
-
-Design vs As-Built ( Japanese Standard )
-
-====
-
-  
+# Design vs As-Built ( Japanese Standard )
 
 ## Description
 
-  
 
 This stand-alone python scripts ouputs As-Built Management Form PDF from LAS dataset and LandXML dataset.
 
@@ -47,8 +41,6 @@ https://www.pref.yamagata.jp/documents/18357/24_re-za-dekigata.pdf
 ~\ArcGIS\Pro\bin\Python\Scripts>propy.bat "~\design_vs_as_built.py" inputLas inputLandXML type method area cellFill
 
 ```
-
-  
 
 ### Parameters
 
