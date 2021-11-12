@@ -71,6 +71,3 @@ https://www.pref.yamagata.jp/documents/18357/24_re-za-dekigata.pdf
 | pavement | not ready | - |
 
   
-  
-
-## Install
