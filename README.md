@@ -15,10 +15,12 @@ As-Built Management Form PDF follows the rule set by the Ministry of Land, Infra
 
 Surveyors, constructors etc in Japan needs to follow this form to show their design vs as-built of their building structure to their client.
 
-LAS file and LandXML file is fed into this code to create an raster image that indicates design vs as-built.
+LAS file and LandXML file is fed into this code to create a raster image that indicates design vs as-built.
 
-  
+The result of design vs as-built is statistically calculated following the rule and set to PDF output.
 
+
+#### excerpt of japanese format
 https://www.pref.yamagata.jp/documents/18357/24_re-za-dekigata.pdf
 
   
