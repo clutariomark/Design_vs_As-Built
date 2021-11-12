@@ -105,7 +105,7 @@ CONSTRUCTION = {
             },
             "slope": {
                 "mean": [-0.05, 100.0],
-                "minmax": [-0.05, 100.0],
+                "minmax": [-0.17, 100.0],
                 "jpname": "法面"
             },
             "jpname": "盛土工",
