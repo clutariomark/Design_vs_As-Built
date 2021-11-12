@@ -63,7 +63,14 @@ https://www.pref.yamagata.jp/documents/18357/24_re-za-dekigata.pdf
 |  | fill | crown, slope |
 | pavement | not ready | - |
 
-  
+### Rasterizing method
+- LAS to Raster
+It thins the LAS dataset first, then create TIN for calculaion, finally rasterize.
+
+- LandXML to Raster
+It create esri TIN surface and then rasterize.
+
+
 ## Install
 1. prepare Windows server
 2. install ArcGIS pro to the window server
