@@ -14,7 +14,8 @@ LAS file and LandXML file is fed into this code to create a raster image that in
 The result of design vs as-built is statistically calculated following the rule and set to PDF output.
 
 
-#### excerpt of japanese format
+#### excerpt of design vs as-built japanese standard
+
 https://www.pref.yamagata.jp/documents/18357/24_re-za-dekigata.pdf
 
   
