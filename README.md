@@ -7,7 +7,7 @@ This stand-alone python scripts ouputs As-Built Management Form PDF from LAS dat
 
 As-Built Management Form PDF follows the rule set by the Ministry of Land, Infrastructure, Transport and Tourism in Japan.
 
-Surveyors, constructors etc in Japan needs to follow this form to show their design vs as-built of their building structure to their client.
+Surveyors, constructors etc company in Japan needs to follow this form to show their design vs as-built of their building structure to their client.
 
 LAS file and LandXML file is fed into this code to create a raster image that indicates design vs as-built.
 
