@@ -64,3 +64,8 @@ https://www.pref.yamagata.jp/documents/18357/24_re-za-dekigata.pdf
 | pavement | not ready | - |
 
   
+## Install
+1. prepare Windows server
+2. install ArcGIS pro to the window server
+3. login by your account
+4. run the command line
