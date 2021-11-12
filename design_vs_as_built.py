@@ -8,6 +8,13 @@ from utils import get_workspace
 from design_vs_as_built_sidecar import *
 import argparse
 
+# from arcgis.raster import ImageryLayer
+# from arcgis.gis import GIS
+# gis = GIS(username="ElizabethYaginuma", password="21223bagure")
+# debug("gis api", gis)
+# imagelyr = ImageryLayer(self._las_ras)
+# debug("ImageryLayer api", imagelyr)
+
 class DesignVsAsBuilt_Calc:
     def __init__(self, settings, workspace, i_lxml, i_las):
         self._settings = settings
