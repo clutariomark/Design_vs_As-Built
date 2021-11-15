@@ -1,0 +1,1 @@
+"C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\propy.bat" "C:\Users\kjohn\Documents\GitHub\Design_vs_As-Built\design_vs_as_built.py" %1 %2 %3 %4 %5 %6

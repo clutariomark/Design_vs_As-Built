@@ -20,3 +20,8 @@ def calc(las: Optional[str] = None, xml: Optional[str] = None ,c: Optional[str] 
 
 # "C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\propy.bat" "C:\Users\kjohn\Documents\GitHub\Design_vs_As-Built\design_vs_as_built.py" 
 # "C:\Users\kjohn\Desktop\Design_vs_AsBuilt_Beta\OGI_Infotec\dekigata.las" "C:\Users\kjohn\Desktop\Design_vs_AsBuilt_Beta\OGI_Infotec\design.xml" riverbed fill slope MINIMUM
+
+
+@app.get("/")
+def hello():
+    return {'hello': 'world'}
