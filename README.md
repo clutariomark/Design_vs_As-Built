@@ -52,7 +52,7 @@ https://www.pref.yamagata.jp/documents/18357/24_re-za-dekigata.pdf
 | 3 | type | The type of the construction.   |
 | 4 | method | The method of the construction.  |
 | 5 | area | The area of the construction. |
-| 6 | cellFill | How you thin LAZ format  |
+| 6 | cellFill | How you thin LAZ format. Options:'MINIMUM', 'MAXIMUM', 'CLOSEST_TO_MEAN'  |
 
 
 #### Construction type
