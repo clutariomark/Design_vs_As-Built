@@ -11,7 +11,7 @@ Surveyors, constructors etc company in Japan needs to follow this form to show t
 
 LAS file (As-built) and LandXML (Design) file is fed into this code to create a raster image that indicates design vs as-built.
 
-The result of design vs as-built is statistically calculated following the rule and set to PDF output.
+The result of design vs as-built is statistically calculated following the rule mentioned above and set to PDF output.
 
 
 #### excerpt of design vs as-built japanese standard
